@@ -1,0 +1,27 @@
+.img1{
+    height: 100px; width: 100px;
+}
+.p1{
+margin-left: 20px;
+}
+.d1{
+    display: flex;
+    background-color: chocolate;
+    height: auto; width: 500px;
+    margin-top: 10px;
+    flex-direction: column;
+    align-items: center;
+    
+    margin: auto;
+}
+.d2{
+    display: flex;
+background-color: aqua;
+color: black; height: 50px; width: auto;
+}
+.p2{
+    margin-top: 15px; margin-left: 20px;
+}
+body{
+    margin: 0;
+}
